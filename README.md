@@ -1,3 +1,5 @@
+# Visual Inspection of Motorcycle Connecting Rods 🏍️
+
 In this project we develop a software system aimed at visual inspection of motorcycle connecting rods. The system classifies the rods based on the number of holes (1 or 2) while ignoring distractors. Moreover, for each rod it computes:
 
 -	Position
