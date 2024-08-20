@@ -21,4 +21,4 @@ The preprocessing of the image, the analyses of the rods and the related holes h
 
 The entire process, from the raw image to the final report of the rods, is detailed in the **rods.ipynb** notebook.
 
-![Analyses of Motorcycle Connecting Rods](/assets/images/rod-analyses.png)
+![Analyses of Motorcycle Connecting Rods](/resources/rod-analyses.png)
