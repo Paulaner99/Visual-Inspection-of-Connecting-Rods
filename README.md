@@ -22,7 +22,9 @@ The preprocessing of the image, the analyses of the rods and the related holes h
 The entire process, from the raw image to the final report of the rods, is detailed in the **rods.ipynb** notebook.
 
 Raw image:
+
 ![Raw image](/resources/TESI92.jpeg)
 
 Postprocessed images:
+
 ![Analyses of Motorcycle Connecting Rods](/resources/rod-analyses.png)
